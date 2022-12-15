@@ -1,6 +1,8 @@
 :root{
     --headers: #202125;
-    --background:  #4d4d4d;
+    --background-image: url(.img/r-architecture-2gDwlIim3Uw-unsplash.jpg)
+    --background-size: cover;
+    --background-repeat: no-repeat;
     --grey: #858585;
     --lightgrey: #d2d2d2;
     --shadow: 0 1px 5px rgba(0, 0, 0, 0.473);
